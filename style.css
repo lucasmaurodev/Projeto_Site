@@ -1,0 +1,11 @@
+header{
+    /* display:flex para colocar modo horizantal */
+    display:flex;
+
+    }
+
+    nav ul{
+         /* display:flex para colocar modo horizantal */
+        display: flex;
+
+        }
