@@ -1,11 +1,31 @@
 header{
     /* display:flex para colocar modo horizantal */
     display:flex;
-
+    width: 100%;
     }
 
     nav ul{
          /* display:flex para colocar modo horizantal */
         display: flex;
-
+        /* define ou remnove o estilo da lista não ordenada */
+        list-style: none;
+        /* width ajuste de largura */
+        width: 100%;
+        /* justify-content serve para o alinhamento */
+       justify-content: space-evenly;
+        
         }
+    img{
+            width: 100px;
+            height: auto;
+        }
+    nav
+    {
+        
+        display: flex;
+        /* comando para centralizar  */
+        align-items: center;
+        width: 100%;
+ 
+    }
+
